@@ -6,8 +6,8 @@ This is a simple madia player.
 
 For setup you should follow commands below.
 
-### git clone git@github.com:okanatabag/Aplayer.git
-### npm install
+### `git clone git@github.com:okanatabag/Aplayer.git`
+### `npm install`
 
 ## Available Scripts
 
